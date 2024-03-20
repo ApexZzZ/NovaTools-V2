@@ -1,8 +1,8 @@
 {
  "prefix" : "$",
- "channel_names" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "roles_name" : ["Axes Are Cool", "Axes Runs Cord", "Axes On Top", "Axes On Fire"],
- "webhooknames" : ["Fucked By TheAxes", "Siezed By TheAxes"],
- "spam_text" : ["@everyone Axes Are Cool", "@everyone Axes Runs Cord", "@everyone Axes On Top", "@everyone Axes On Fire"],
+ "channel_names" : ["Fucked By Beluga", "Beluga Runs Cord", "Beluga On Top", "Beluga On Fire"],
+ "roles_name" : ["Beluga Are Cool", "Beluga Runs Cord", "Beluga On Top", "Beluga On Fire"],
+ "webhooknames" : ["Fucked By Beluga", "Siezed By Beluga"],
+ "spam_text" : ["@everyone Beluga Are Cool", "@everyone Beluga Runs Cord", "@everyone Beluga On Top", "@everyone Beluga On Fire", "@everyonefucked by https://discord.gg/sUFQzR2AJ6", "Fucked Up https://discord.gg/sUFQzR2AJ6"],
  "reason" : "Seized By TheAxes"
  } 
